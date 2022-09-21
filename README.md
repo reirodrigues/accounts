@@ -10,6 +10,8 @@ Sistema que simula operações de um caixa eletronico.
 
 ## Como usar
 
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/103211492/191568427-382bc605-7f92-48b3-a0c7-82a7a93048b7.gif)
+
 ## Pré-requisitos
 
 Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
